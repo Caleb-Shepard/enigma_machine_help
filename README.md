@@ -11,4 +11,7 @@
 [Test Files updated](https://floridapolytechnic.instructure.com/courses/1853/discussion_topics/21557)<br />
 [Rotor selections](https://floridapolytechnic.instructure.com/courses/1853/discussion_topics/21545)<br />
 
+## Test Cases
+All updated test cases are included in the test cases folder.
+
 ### Message [cshepard6055@flpoly.edu](cshepard6055@flpoly.edu) for pull requests
