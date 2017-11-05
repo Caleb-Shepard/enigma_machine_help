@@ -13,5 +13,3 @@
 
 ## Test Cases
 All updated test cases are included in the test cases folder.
-
-### Message [cshepard6055@flpoly.edu](cshepard6055@flpoly.edu) for pull requests
